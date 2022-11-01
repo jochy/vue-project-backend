@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "french-words-gender-lefff": "^2.2.6"
+    "french-words-gender-lefff": "^2.2.6",
+    "next": "^13.0.1"
   }
 }

@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "french-words-gender-lefff": "^2.2.6",
-    "next": "^13.0.1",
-    "nextjs-cors": "^2.1.2"
+    "next": "^13.0.1"
   }
 }
